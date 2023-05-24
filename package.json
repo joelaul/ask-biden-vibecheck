@@ -1,0 +1,8 @@
+{
+  "name": "ask-biden-vibecheck",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/joelaul/ask-biden-vibecheck.git",
+  "author": "Joe Lauletta <laulettaj@gmail.com>",
+  "license": "MIT"
+}
